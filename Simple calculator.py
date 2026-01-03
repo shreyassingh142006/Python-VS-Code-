@@ -1,0 +1,11 @@
+#creating a calculator
+x = input("enter the first number (x): ")
+y = input("enter the second number (y): ")
+print("\n")
+print("x + y = ", int(x) + int(y), "\n")
+print("x - y = ",int(x) - int(y), "\n")
+print("x * y = ",int(x) * int(y), "\n")
+print("x / y = ",int(x) / int(y), "\n")
+print("x // y = ",int(x) // int(y), "\n")
+print("x % y = ",int(x) % int(y), "\n")
+print("x ** y = ",int(x) ** int(y), "\n")
